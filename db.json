@@ -1,0 +1,12 @@
+{
+  "order":[
+    {
+		"priceTotal": 150,
+		"shippingAddress": "Taamsaare tee 25a",
+		"seller": {
+			"addresses": ["Address1", "Address2"]
+		}
+	}
+
+  ]
+}
