@@ -9,5 +9,20 @@
 		}
 	}
 
+  ],
+  "courier":[
+    {
+		"id": 0,
+		"name": "Best courier"
+	},
+	{
+		"id": 1,
+		"name": "Clumsy courier"
+	},
+	{
+		"id": 2,
+		"name": "Greedy courier"
+	}
+
   ]
 }
