@@ -3,9 +3,17 @@
     {
 		"id": 0,
 		"priceTotal": 150,
-		"shippingAddress": "Taamsaare tee 25a",
+		"shippingAddress": "Harjumaa,Tallinn,Mustamäe,15",
 		"seller": {
-			"addresses": ["Address1", "Address2"]
+			"addresses": ["Haarjumaa,Tallinn", "Tartumaa,Tartu"]
+		}
+	},
+	{
+		"id": 1,
+		"priceTotal": 100,
+		"shippingAddress": "Harjumaa,Tallinn,Mustamäe,15",
+		"seller": {
+			"addresses": ["Hiiumaa,Kaasiku,15"]
 		}
 	}
 
@@ -14,16 +22,20 @@
     {
 		"id": 0,
 		"name": "Best courier",
-		"addresses": "Haapsalu, Sõle tn, 52-1"
+		"addresses": ["Haarjumaa,Tallinn,Sõle,15"],
+		"percentFromOrder": 5
 	},
 	{
 		"id": 1,
 		"name": "Clumsy courier",
-		"addresses": "Viimsi, Rahumäe 5"
+		"addresses": ["Pärnumaa,Pärnu,Jõemetsa,3"],
+		"percentFromOrder": 3
 	},
 	{
 		"id": 2,
-		"name": "Kakumäe 15"
+		"name": "Unexpected courier"
+		"addresses": ["Raplamaa,Rapla,Kaasiku,15d"],
+		"percentFromOrder": 10
 	}
 
   ]
