@@ -13,15 +13,17 @@
   "courier":[
     {
 		"id": 0,
-		"name": "Best courier"
+		"name": "Best courier",
+		"addresses": "Haapsalu, Sõle tn, 52-1"
 	},
 	{
 		"id": 1,
-		"name": "Clumsy courier"
+		"name": "Clumsy courier",
+		"addresses": "Viimsi, Rahumäe 5"
 	},
 	{
 		"id": 2,
-		"name": "Greedy courier"
+		"name": "Kakumäe 15"
 	}
 
   ]
