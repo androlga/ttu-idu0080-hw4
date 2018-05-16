@@ -22,19 +22,19 @@
     {
 		"id": 0,
 		"name": "Best courier",
-		"addresses": ["Haarjumaa,Tallinn,Sõle,15"],
+		"address": ["Haarjumaa,Tallinn,Sõle,15"],
 		"percentFromOrder": 5
 	},
 	{
 		"id": 1,
 		"name": "Clumsy courier",
-		"addresses": ["Pärnumaa,Pärnu,Jõemetsa,3"],
+		"address": ["Pärnumaa,Pärnu,Jõemetsa,3"],
 		"percentFromOrder": 3
 	},
 	{
 		"id": 2,
 		"name": "Unexpected courier",
-		"addresses": ["Raplamaa,Rapla,Kaasiku,15d"],
+		"address": ["Raplamaa,Rapla,Kaasiku,15d"],
 		"percentFromOrder": 10
 	}
 
