@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 2,
-		"name": "Unexpected courier"
+		"name": "Unexpected courier",
 		"addresses": ["Raplamaa,Rapla,Kaasiku,15d"],
 		"percentFromOrder": 10
 	}
