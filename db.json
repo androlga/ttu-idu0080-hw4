@@ -5,7 +5,7 @@
 		"priceTotal": 150,
 		"shippingAddress": "Harjumaa,Tallinn,Mustamäe,15",
 		"seller": {
-			"addresses": ["Haarjumaa,Tallinn", "Tartumaa,Tartu"]
+			"addresses": ["Harjumaa,Tallinn", "Tartumaa,Tartu"]
 		}
 	},
 	{
@@ -22,7 +22,7 @@
     {
 		"id": 0,
 		"name": "Best courier",
-		"address": ["Haarjumaa,Tallinn,Sõle,15"],
+		"address": ["Harjumaa,Tallinn,Sõle,15"],
 		"percentFromOrder": 5
 	},
 	{
